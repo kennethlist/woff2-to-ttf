@@ -1,0 +1,12 @@
+{
+  "name": "woff2convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "woff2": "^0.0.1",
+    "woff2-parser": "^1.0.0"
+  },
+  "devDependencies": {}
+}
